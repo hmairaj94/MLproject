@@ -71,5 +71,7 @@ This project demonstrates how machine learning can be used to predict student pe
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SHAP (optional)
 - **Environment**: Jupyter Notebook or any Python IDE
 
+
 ## Screenshot
-![Screenshot (68)](https://github.com/user-attachments/assets/b9a90ac0-24b0-42b2-830d-4e2165f282bc)
+![Screenshot (69)](https://github.com/user-attachments/assets/42d273f1-9246-4b55-95db-0cec86feefe2)
+
